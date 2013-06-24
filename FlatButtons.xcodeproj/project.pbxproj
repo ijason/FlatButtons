@@ -18,6 +18,7 @@
 		9644A3811776966F0008255E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9644A3801776966F0008255E /* Default-568h@2x.png */; };
 		9644A3841776966F0008255E /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9644A3821776966F0008255E /* MainStoryboard.storyboard */; };
 		9644A3871776966F0008255E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9644A3861776966F0008255E /* ViewController.m */; };
+		9644A38F177699700008255E /* FlatButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 9644A38E177699700008255E /* FlatButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		9644A3831776966F0008255E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		9644A3851776966F0008255E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		9644A3861776966F0008255E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9644A38D177699700008255E /* FlatButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlatButton.h; sourceTree = "<group>"; };
+		9644A38E177699700008255E /* FlatButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlatButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				9644A3851776966F0008255E /* ViewController.h */,
 				9644A3861776966F0008255E /* ViewController.m */,
 				9644A3711776966F0008255E /* Supporting Files */,
+				9644A38D177699700008255E /* FlatButton.h */,
+				9644A38E177699700008255E /* FlatButton.m */,
 			);
 			path = FlatButtons;
 			sourceTree = "<group>";
@@ -176,6 +181,7 @@
 				9644A3771776966F0008255E /* main.m in Sources */,
 				9644A37B1776966F0008255E /* AppDelegate.m in Sources */,
 				9644A3871776966F0008255E /* ViewController.m in Sources */,
+				9644A38F177699700008255E /* FlatButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
