@@ -12,7 +12,7 @@ Flat Buttons
 
 ## Usage
 
-Copy FlatButton.h and FlatButton.h into your project.
+Copy FlatButton.h and FlatButton.m into your project.
 
 Import `#import "FlatButton.h"` where you plan to create the buttons.
 
